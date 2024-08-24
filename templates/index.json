@@ -9,21 +9,28 @@
 */
 {
   "sections": {
-    "image_banner": {
-      "type": "image-banner",
+    "video_banner_qJF89r": {
+      "type": "video-banner",
       "blocks": {
-        "heading": {
+        "heading_cxGKDG": {
           "type": "heading",
           "settings": {
             "heading": "<a href=\"\/collections\/pre-sale-fumar-limited-edition-sunglasses\" title=\"Pre-sale Fumar Limited Edition Sunglasses\">PRE-ORDER<\/a> \"FUMAR\" LIMITED EDITION SUNGLASSES BY CHRIS PORT",
             "heading_size": "h2"
           }
         },
-        "buttons_dXtWzw": {
+        "text_C9WKJk": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "buttons_L49Gty": {
           "type": "buttons",
           "settings": {
             "button_label_1": "PRE-ORDER",
-            "button_link_1": "shopify:\/\/collections\/pre-sale-fumar-limited-edition-sunglasses",
+            "button_link_1": "",
             "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
@@ -32,21 +39,17 @@
         }
       },
       "block_order": [
-        "heading",
-        "buttons_dXtWzw"
+        "heading_cxGKDG",
+        "text_C9WKJk",
+        "buttons_L49Gty"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/StillsV1_1.8.1.png",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/3ff2ed85bbff4bc68d131cad6c224157.mov",
         "desktop_content_position": "bottom-left",
         "show_text_box": false,
         "desktop_content_alignment": "left",
         "color_scheme": "scheme-3",
-        "image_behavior": "zoom-in",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
+        "mobile_content_alignment": "left"
       }
     },
     "collection_list_Jcig38": {
@@ -84,7 +87,7 @@
     }
   },
   "order": [
-    "image_banner",
+    "video_banner_qJF89r",
     "collection_list_Jcig38"
   ]
 }
