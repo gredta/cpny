@@ -38,7 +38,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/StillsV1_1.8.1.png",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "small",
         "desktop_content_position": "bottom-left",
         "show_text_box": false,
         "desktop_content_alignment": "left",
