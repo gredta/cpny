@@ -852,6 +852,9 @@ select {
 .hidden {
   display: none;
 }
+.\!w-\[50\%\] {
+  width: 50% !important;
+}
 .w-16 {
   width: 4rem;
 }
@@ -860,6 +863,9 @@ select {
 }
 .w-32 {
   width: 8rem;
+}
+.\!w-\[70\%\] {
+  width: 70% !important;
 }
 .transform {
   transform: translate(var(--tw-translate-x), var(--tw-translate-y))
