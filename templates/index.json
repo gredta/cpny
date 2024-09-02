@@ -11,6 +11,7 @@
   "sections": {
     "video_KHfzP3": {
       "type": "video",
+      "disabled": true,
       "settings": {
         "heading": "",
         "heading_size": "h1",
@@ -59,7 +60,6 @@
         "text_C9WKJk",
         "buttons_L49Gty"
       ],
-      "disabled": true,
       "settings": {
         "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/3561dc04ff194f8386fcb32c36b649ee.mov",
         "desktop_content_position": "bottom-left",
