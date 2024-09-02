@@ -9,23 +9,6 @@
 */
 {
   "sections": {
-    "video_KHfzP3": {
-      "type": "video",
-      "disabled": true,
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "enable_video_looping": true,
-        "video": "shopify:\/\/files\/videos\/banner.mov",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "cover_image": "shopify:\/\/shop_images\/StillsV1_1.8.1.png",
-        "description": "",
-        "full_width": true,
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "video_banner_qJF89r": {
       "type": "video-banner",
       "blocks": {
@@ -104,7 +87,6 @@
     }
   },
   "order": [
-    "video_KHfzP3",
     "video_banner_qJF89r",
     "collection_list_Jcig38"
   ]
