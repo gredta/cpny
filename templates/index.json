@@ -12,36 +12,16 @@
     "video_banner_qJF89r": {
       "type": "video-banner",
       "blocks": {
-        "heading_cxGKDG": {
-          "type": "heading",
-          "settings": {
-            "heading": "\"FUMAR\" SUNGLASSES",
-            "heading_size": "h2"
-          }
-        },
         "text_C9WKJk": {
           "type": "text",
           "settings": {
             "text": "",
             "text_style": "body"
           }
-        },
-        "buttons_L49Gty": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "PRE-ORDER",
-            "button_link_1": "shopify://products/fumar-sunglasses",
-            "button_style_secondary_1": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
         }
       },
       "block_order": [
-        "heading_cxGKDG",
-        "text_C9WKJk",
-        "buttons_L49Gty"
+        "text_C9WKJk"
       ],
       "settings": {
         "video_url": "https://cdn.shopify.com/videos/c/o/v/3561dc04ff194f8386fcb32c36b649ee.mov",
