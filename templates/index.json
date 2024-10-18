@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "video_banner_qJF89r": {
@@ -15,7 +15,7 @@
         "heading_cxGKDG": {
           "type": "heading",
           "settings": {
-            "heading": "<a href=\"\/collections\/pre-sale-fumar-limited-edition-sunglasses\" title=\"Pre-sale Fumar Limited Edition Sunglasses\">PRE-ORDER<\/a> \"FUMAR\" LIMITED EDITION SUNGLASSES BY CHRIS PORT",
+            "heading": "\"FUMAR\" SUNGLASSES",
             "heading_size": "h2"
           }
         },
@@ -30,7 +30,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "PRE-ORDER",
-            "button_link_1": "shopify:\/\/products\/fumar-sunglasses",
+            "button_link_1": "shopify://products/fumar-sunglasses",
             "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
@@ -44,7 +44,7 @@
         "buttons_L49Gty"
       ],
       "settings": {
-        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/3561dc04ff194f8386fcb32c36b649ee.mov",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/3561dc04ff194f8386fcb32c36b649ee.mov",
         "desktop_content_position": "bottom-left",
         "show_text_box": false,
         "desktop_content_alignment": "left",
